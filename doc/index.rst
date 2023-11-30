@@ -5,7 +5,7 @@
 
 Welcome to Axiom of Choice!
 =========================================
-This website is used for the final project of the course "Real Analysis". The project is about the Axiom of Choice. We will introduce the Axiom of Choice and its equivalent statements, and then prove some theorems related to the Axiom of Choice. We will also introduce some applications of the Axiom of Choice in other fields of mathematics.
+This website is used for the final project of the course MATH 366: Real Analysis. The project is about the Axiom of Choice. We will introduce the Axiom of Choice and its equivalent statements, and then prove some theorems related to the Axiom of Choice. We will also introduce some applications of the Axiom of Choice in other fields of mathematics.
 
 
 
@@ -13,13 +13,14 @@ This website is used for the final project of the course "Real Analysis". The pr
    :maxdepth: 2
    :caption: Contents:
 
-   Question
+   branches/Intro
+   branches/Bibliography
+   branches/Equivalent
+   branches/Proof
+   branches/Application
+   branches/Question
+   branches/Summary
+   branches/References
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
