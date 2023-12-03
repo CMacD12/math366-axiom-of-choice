@@ -13,12 +13,11 @@ This website is used for the final project of the course MATH 366: Real Analysis
    :maxdepth: 2
    :caption: Contents:
 
-   index
    branches/Intro
    branches/Bibliography
    branches/Equivalent
-   branches/Proof
    branches/Application
+   branches/Proof
    branches/Question
    branches/Summary
    branches/References
