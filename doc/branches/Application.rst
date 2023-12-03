@@ -5,7 +5,7 @@ Thinking Behind the Axiom of Choice
 -----------------------------------
 Starting of simply we can think of the following definition:
 
-**Definition #1:** Let :math:`A` be a non-empty set of non-empty sets. A function :math:`f:\mathcal{A} \to \bigcup_{}^{}\mathcal{A}` is called a choice function for :math:`\mathcal{A}` if :math:`f(A) \in A` for all :math:`A \in \mathcal{A}`.
+**Definition:** Let :math:`A` be a non-empty set of non-empty sets. A function :math:`f:\mathcal{A} \to \bigcup_{}^{}\mathcal{A}` is called a choice function for :math:`\mathcal{A}` if :math:`f(A) \in A` for all :math:`A \in \mathcal{A}`.
 
 In other words, a choice function for :math:`\mathcal{A}` is a function that picks an element from each set :math:`A \in \mathcal{A}`. Below are some examples of choice functions.
 
