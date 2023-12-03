@@ -18,7 +18,7 @@ However, if we start to think about infinite sets or where the objects/elements 
 
 As a variation of the second example above, think about: let :math:`\mathcal{A}` be the collection of all pairs of socks in the world. What is a choice function for :math:`\mathcal{A}`? Well, we can’t just pick the left sock out of each pair, because the socks in each pair are identical. So we need some other way of picking one sock out of each pair. The Axiom of Choice guarantees that there is a choice function for :math:`\mathcal{A}`, but it doesn’t tell us how to define one.
 
-What the Axiom of Choice does is guarantee that there always exist choice functions, even in the absence of such a “rule” for defining one easily. 
+In other words, what the Axiom of Choice does is guarantee that there always exist choice functions, even in the absence of such a “rule” for defining one easily. 
 
 
 Some Video Examples
