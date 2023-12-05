@@ -16,9 +16,9 @@ Now with these examples the idea of the axiom of choice or needing some proof of
 
 However, if we start to think about infinite sets or where the objects/elements in the sets are identical, then the axiom of choice becomes a bit more interesting.
 
-As a variation of the second example above, think about: let :math:`\mathcal{A}` be the collection of all pairs of socks in the world. What is a choice function for :math:`\mathcal{A}`? Well, we can’t just pick the left sock out of each pair, because the socks in each pair are identical. So we need some other way of picking one sock out of each pair. The Axiom of Choice guarantees that there is a choice function for :math:`\mathcal{A}`, but it doesn’t tell us how to define one.
+As a variation of the second example above, think about: let :math:`\mathcal{A}` be the collection of all pairs of socks in the world. What is a choice function for :math:`\mathcal{A}`? Well, we can’t just pick the left sock out of each pair, because the socks in each pair are identical. So we need some other way of picking one sock out of each pair. Without the axiom of choice, it would take an infinite amount of time to pick a sock out of each pair since their is no explicit way to do so.
 
-In other words, what the Axiom of Choice does is guarantee that there always exist choice functions, even in the absence of such a “rule” for defining one easily. 
+The Axiom of Choice guarantees that there is a choice function for :math:`\mathcal{A}`, but it doesn’t tell us how to define one.In other words, what the Axiom of Choice does is guarantee that there always exist choice functions, even in the absence of such a “rule” for defining one easily. It also has the feature, not shared by other axioms of set theory, that it asserts the existence of a set without ever specifying its elements or any definite way to select them.
 
 
 Some Video Examples
