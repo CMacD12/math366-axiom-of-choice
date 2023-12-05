@@ -2,7 +2,8 @@ Equivalencies
 =============
 The following equivalencies of the axiom of choice are known to hold:
 
-* Set theory
+Set theory
+----------
     * **Tarski's theorem about choice**: For every infinite set A, there is a bijective map between the sets A and A×A.
     * **Trichotomy**: If two sets are given, then either they have the same cardinality, or one has a smaller cardinality than the other.
     * Given two non-empty sets, one has a surjection to the other.
@@ -15,22 +16,32 @@ The following equivalencies of the axiom of choice are known to hold:
     * **Hausdorff maximal principle**: Every partially ordered set has a maximal chain. Equivalently, in any partially ordered set, every chain can be extended to a maximal chain.
     * **Tukey's lemma**: Every non-empty collection of finite character has a maximal element with respect to inclusion.
     * **Antichain principle**: Every partially ordered set has a maximal antichain. Equivalently, in any partially ordered set, every antichain can be extended to a maximal antichain.
-* Abstract algebra
+
+Abstract algebra
+----------------
     * Every vector space has a basis (i.e., a linearly independent spanning subset). In other words, vector spaces are equivalent to free modules.
     * **Krull's theorem**: Every unital ring (other than the trivial ring) contains a maximal ideal. Equivalently, in any nontrivial unital ring, every ideal can be extended to a maximal ideal.
     * For every non-empty set S there is a binary operation defined on S that gives it a group structure. (A cancellative binary operation is enough, see group structure and the axiom of choice.)
     * Every free abelian group is projective.
     * **Baer's criterion**: Every divisible abelian group is injective.
     * Every set is a projective object in the category Set of sets.
-* Functional analysis
+
+Functional analysis
+-------------------
     * The closed unit ball of the dual of a normed vector space over the reals has an extreme point.
-* Point-set topology
+
+Point-set topology
+------------------
     * The Cartesian product of any family of connected topological spaces is connected.
     * **Tychonoff's theorem**: The Cartesian product of any family of compact topological spaces is compact.
     * In the product topology, the closure of a product of subsets is equal to the product of the closures.
-* Mathematical logic
+
+Mathematical logic
+------------------
     * If S is a set of sentences of first-order logic and B is a consistent subset of S, then B is included in a set that is maximal among consistent subsets of S. The special case where S is the set of all first-order sentences in a given signature is weaker, equivalent to the Boolean prime ideal theorem; see the section "Weaker forms" below.
-* Algebraic topology
+
+Algebraic topology
+------------------
     * Every connected graph has a spanning tree. Equivalently, every nonempty graph has a spanning forest.
 
 .. note::
