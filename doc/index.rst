@@ -5,7 +5,7 @@
 
 Welcome to Axiom of Choice!
 =========================================
-This website is used for the final project of the course MATH 366: Real Analysis. The project is about the Axiom of Choice. We will introduce the Axiom of Choice and its equivalent statements, and then prove some theorems related to the Axiom of Choice. We will also introduce some applications of the Axiom of Choice in other fields of mathematics.
+This website is used for the final project of the course MATH 366: Real Analysis. The project is about the Axiom of Choice which was first theorized by Ernst Zermelo. We will introduce the Axiom of Choice and its equivalent statements, and then show the proof to the Axiom of Choice. We will also introduce some applications and examples of the Axiom of Choice.
 
 .. figure:: branches/The-axiom-of-choice.png
    :align: center
