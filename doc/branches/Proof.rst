@@ -3,6 +3,10 @@ Proof
 
 The axiom of choice seems to be obvious and intuitive, and in our everyday life there is no direct need to use since we are only concerned with finite sets. However, when we start to deal with infinite sets, we find that the axiom of choice is necessary to prove many theorems. In fact, it is so useful that it is often used without mention in many proofs.
 
+.. figure:: 250px-Axiom_of_choice.svg.png
+   :align: center
+   :target: https://en.wikipedia.org/wiki/Axiom_of_choice
+
 Getting into the formality of mathematical logic for just a minute, the statement that a set :math:`B` is non-empty amounts to the first-order formula :math:`\phi(B):=(\exists x)(x\in B)` being true. If a set is known to be non-empty, we can infer that there is something in it, give it a name, and work with it. This rule of inference an example of *existential instantiation*.
 
 Now in mathematical logic, we can “conjoin” finitely many formulas with “and” symbols. That is, if :math:`B_1, \cdots, B_n` are sets and we know each of them is non-empty, the following is also a formula of first-order logic.
