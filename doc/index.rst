@@ -10,6 +10,7 @@ This website is used for the final project of the course MATH 366: Real Analysis
 .. figure:: branches/The-axiom-of-choice.png
    :align: center
    :target: https://www.researchgate.net/figure/The-axiom-of-choice_fig2_304044344
+   :width: 50%
 
    Visualization of the Axiom of Choice
 
